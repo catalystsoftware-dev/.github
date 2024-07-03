@@ -50,7 +50,7 @@ We are committed to maintaining a welcoming and inclusive environment. Please re
 
 ## License
 
-This repository is licensed under the Apache License 2.0. For more information, please refer to the LICENSE file.
+Each repository in this organization is the exclusive property of Catalyst Software Developers LLC and contributors must take care to secure intellectual property. 
 
 ## Contact Us
 
@@ -62,4 +62,3 @@ Website: catalystsoftware.dev
 Thank you for visiting our GitHub repository. We look forward to your contributions!
 
 Catalyst Software Developers LLC © 2024. All rights reserved.
-
